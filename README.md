@@ -2,6 +2,12 @@
 
 基于 PySide6、YOLO 和 ByteTrack 的交通视频分析桌面系统。支持车辆检测与跟踪、图形化车道配置、方向性跨线计数、分车道流量、相对运动与拥堵分析、完整视频后台分析、缓存回放及 CSV/JSON 导出。
 
+## 视频演示
+
+https://github.com/user-attachments/assets/b97ec3a9-dacd-4175-a89a-6a5060686186
+
+时长 60 秒，1920×1080。完整 MP4 保存在 `demo/demo.mp4`。
+
 ## 安装与启动
 
 推荐 Python 3.11。进入仓库根目录后执行：
